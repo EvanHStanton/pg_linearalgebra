@@ -2,4 +2,4 @@ comment = 'A linear algebra extension'
 default_version = '1.0'
 module_pathname = '$libdir/pg_linearalgebra'
 relocatable = false
-superuser = false
+superuser = true
